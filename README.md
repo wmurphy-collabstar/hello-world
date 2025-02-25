@@ -1,3 +1,8 @@
-# hello-world
-Learning how to use Github
-I am a new programmer looking to try new things and see wheter this really is my passion, coding, or I really was trying something to hard for me and should do something else.
+# hello-world: Learning how to use Github
+I am an intermediate programmer and web developer. I'm *happy* to know that software development *is* a passion for me, including the **coding and design process**. 
+
+I want to keep learning new things, and I believe in myself. 
+
+In 2019, I was pretty pessimistic since I was brand new to the tech field, but I know now that I can pursue my goal of being a full-time Web Developer. 
+
+**You've *got* this!!**
